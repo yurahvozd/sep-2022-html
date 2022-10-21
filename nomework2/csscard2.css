@@ -1,0 +1,15 @@
+body{
+    width: 0;
+    height: 0;
+}
+.wrapper{
+    width: 600px;
+    height: 400px;
+    background: silver;
+}
+.header{
+    width: 600px;
+    height: 100px;
+    background: cadetblue;
+    justify-content: center;
+}
